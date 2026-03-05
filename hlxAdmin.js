@@ -13,8 +13,8 @@
 require('dotenv').config();
 const axios = require('axios');
 
-const ORG = 'vishiadroit';
-const REPO = 'aem-ui';
+const ORG = 'zhangchunlong-clzhang';
+const REPO = 'aem-ue-2603';
 const BRANCH = 'main';
 
 const operations = {
