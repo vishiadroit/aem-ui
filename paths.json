@@ -3,6 +3,6 @@
     "/content/wknd-xwalk/:/"
   ],
   "includes": [
-      "/content/wknd-xwalk/"
+    "/content/wknd-xwalk/"
   ]
 }
